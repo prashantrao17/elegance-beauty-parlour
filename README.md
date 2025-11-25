@@ -16,7 +16,4 @@ A beautiful, modern website for a women's beauty parlour featuring elegant desig
 - JavaScript (ES6+)
 
 ## Live Demo
-Visit: [Your GitHub Pages URL will appear here after deployment]
-
----
-Created with ✨ and 💖
+Visit: https://prashantrao17.github.io/elegance-beauty-parlour/
